@@ -1,10 +1,12 @@
 # スイカゲーム風ゲーム(SuikaGame-LikkeGames)
 
-### .exe file
+スイカゲーム風の落ち物パズルゲーム。
 
-# DEMO
+# DEMO 動画
 
-# 使用アセット＆仕様素材
+[![](https://img.youtube.com/vi/9GnRhDXq5TI/0.jpg)](https://www.youtube.com/watch?v=9GnRhDXq5TI)
+
+# 使用アセット＆使用素材
 
 ### ツール関連
 
@@ -26,3 +28,5 @@
 > https://music.storyinvention.com/
 
 # Written code
+
+> https://github.com/t3a3/SuikaGame-LikeGames/tree/main/Assets/Scripts

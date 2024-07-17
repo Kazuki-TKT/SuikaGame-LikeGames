@@ -51,13 +51,13 @@ public class GameManager : MonoBehaviour
         {
             foreach (CustomButton customButton in playButton)
             {
-                customButton.onClickCallback += () => { 
+                customButton.onClickCallback += () =>
+                {
                     SetCurrentState(GameState.Prepare);
                     clickAudioSource.Play();
                 };
             }
         }
-        
     }
 
     // 外からこのメソッドを使って状態を変更
